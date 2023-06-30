@@ -1,0 +1,10 @@
+c:\users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\bin\Debug\TEA SHOP.exe.config
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\bin\Debug\TEA SHOP.exe
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\bin\Debug\TEA SHOP.pdb
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA SHOP.csprojResolveAssemblyReference.cache
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA_SHOP.Form1.resources
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA_SHOP.Properties.Resources.resources
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA SHOP.csproj.GenerateResource.Cache
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA SHOP.exe
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA SHOP.pdb
+C:\Users\azzim\documents\visual studio 2012\Projects\TEA SHOP\TEA SHOP\obj\Debug\TEA_SHOP.Form2.resources
